@@ -1,3 +1,5 @@
+
+
 window.$docsify = {
   el: '#app',
   themeColor: '#39BAE8',
@@ -10,7 +12,7 @@ window.$docsify = {
   loadSidebar: true, //加载自定义侧边栏
   loadNavbar: true, //加载自定义导航栏
   mergeNavbar: true, // Navbar将在较小的屏幕上与侧边栏合并
-  routerMode: 'history', //路由方式 默认hash
+  // routerMode: 'history', //路由方式 默认hash
   // basePath: '/',
   // nameLink: '/docs/',
   subMaxLevel: 2, //自定义侧边栏同时也可以开启目录功能
@@ -27,11 +29,11 @@ window.$docsify = {
     crossChapter: true
   },
   count : {
-      positionL: "bottom",
-      countable: true,
-      fontSize:'0.9em',
-      color: 'rgb(70,130,180)',
-      language : 'chinese'
+    positionL: "bottom",
+    countable: true,
+    fontSize:'0.9em',
+    color: 'rgb(70,130,180)',
+    language : 'chinese'
   },
   cusdis: {
     host: 'https://cusdis.com',
@@ -45,7 +47,6 @@ window.$docsify = {
     // ...
     // 不支持 el 和 path 参数自定义
   },
-
 
   plugins: [
     function(hook, vm) {

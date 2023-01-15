@@ -1,4 +1,5 @@
 - [立志篇](/determined/)
+- [生存技巧](/existence/)
 - [竞赛篇](/competition/)
 - [班委篇](/classCommittee/)
 - [学生会以及社团](/studentUnion/)

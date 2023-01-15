@@ -1,10 +1,6 @@
 # 欢迎来到江苏师范大学科文学院
 > 2023年1月1日 ｜ author：张浩健 ｜ email：1427774041@qq.com
 
-<div align="center">
-  <img src="./determined/img/01.jpeg" width="300" alt="logo" align="center">
-</div>
-
 > 残酷的现实
 
 各位同学们，在本书的开始，我不得不遗憾地告诉大家一个消息。国内绝大部分大学的本科教学早已崩溃。
