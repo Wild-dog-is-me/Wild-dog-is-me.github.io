@@ -1,6 +1,9 @@
+- -----------------立志篇-----------------
 - [欢迎来到江苏师范大学科文学院](determined/README.md)
 - [你想要做什么](determined/01.md)
 - [失败的思维方式](determined/02.md)
 - [悲壮的学习方式](determined/03.md)
 - [正确的浪费剩下的时间](determined/04.md)
 - [总有更值得做的事情](determined/05.md)
+- ----------------生存技巧-----------------
+- [生存技巧序言](existence/README.md)
